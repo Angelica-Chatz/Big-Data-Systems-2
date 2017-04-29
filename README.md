@@ -7,7 +7,7 @@ using:
 - Java SE Development Kit 8u65
 
 
-##Tasks:
+## Tasks:
 # Classification Assignment:
 - Install Apache Spark on local Linux VM
 - Heart Disease dataset with 2-class classification objective (Improving/Worsening)
